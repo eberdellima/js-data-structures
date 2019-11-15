@@ -1,0 +1,12 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "A lightweight library that implements data structures in JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Bhfreagra",
+  "license": "ISC",
+  "dependencies": {
+    "fnv1a": "^1.0.1"
+  }
+}
